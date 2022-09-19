@@ -1,1 +1,18 @@
-# nlw![Sem título - 19](https://user-images.githubusercontent.com/110674657/191110466-925cb91a-5ab9-48b0-bdd7-c180b00f9694.png)
+# NLW eSports
+>Trilha Explorer
+
+![preview](./.github/preview.png)
+
+Projeto contruído no evento "Next Level Week" da RocketSeat.
+
+[Clique aqui para acessar](https://luka2777.github.io/nlw-esports-explorer/)
+
+## Tecnologias
+
+- HTML
+- CSS
+- GIT e GITHUB
+
+Contato
+
+lukanatanael@hotmail.com
